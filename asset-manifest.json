@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tree-veiw/static/css/main.f855e6bc.css",
+    "main.js": "/tree-veiw/static/js/main.408b073f.js",
+    "static/js/453.a6fcf625.chunk.js": "/tree-veiw/static/js/453.a6fcf625.chunk.js",
+    "static/media/logo.svg": "/tree-veiw/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tree-veiw/index.html",
+    "main.f855e6bc.css.map": "/tree-veiw/static/css/main.f855e6bc.css.map",
+    "main.408b073f.js.map": "/tree-veiw/static/js/main.408b073f.js.map",
+    "453.a6fcf625.chunk.js.map": "/tree-veiw/static/js/453.a6fcf625.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.408b073f.js"
+  ]
+}
